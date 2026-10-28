@@ -1,0 +1,4 @@
+*_log.txt
+apply_log.txt*
+rules_backup.txt
+*.old
